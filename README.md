@@ -4,6 +4,7 @@ rpg-client-framework
 rpg-game-framework-for-client,event-driven,data-driven
 
 1.my wish(我的愿望)
+
   as there are a lot flash game online in China,i want to wirte an easy-to-understand rpg-game-client-framework;also 
 i will write a server for this framework in Python or C++.
 
