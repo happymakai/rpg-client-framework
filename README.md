@@ -20,3 +20,8 @@ i will write a server for this framework in Python or C++.
 3. beg(求帮助)
   i don't what this kind of game should do , i just organize it as my way . hope some one will help me!
 
+4. contact(联系)
+  798656396@qq.com
+  
+  
+
