@@ -16,4 +16,7 @@ i will write a server for this framework in Python or C++.
   i am a green hand to As3 (ActionScript3), i learn C++ all by my self,then turn to As3(as my work's wish).
   
   i hope someone will help me to finish this framework!
+  
+3. beg(求帮助)
+  i don't what this kind of game should do , i just organize it as my way . hope some one will help me!
 
