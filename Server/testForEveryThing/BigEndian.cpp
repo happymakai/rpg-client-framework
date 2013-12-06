@@ -1,0 +1,10 @@
+
+
+
+
+bool isBigEndian()
+{
+
+	return false;
+}
+
